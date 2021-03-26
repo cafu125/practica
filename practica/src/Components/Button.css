@@ -1,0 +1,17 @@
+.button-wrapper {
+height: 4em;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: lighter;
+font-size: 1.4em;
+background-color:dimgray;
+color:#f7f9f9;
+flex: 4;
+outline: 1px solid #7fffd4;
+}
+
+.operador-wrapper {
+background-color: chocolate;
+color: #f7f9f9;
+}
